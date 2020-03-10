@@ -1,0 +1,13 @@
+1) keep the quiz file "Quiz.txt" and the c programme file "tog.c" in the same folder always.
+
+2) you can open the c programme in codeblocks preferably.
+
+3) when you run the programme, you will be guided abouts its features and steps.
+
+4) while running the programme, it will automatically create new files for storing the names and scores of the students. 
+
+5) there is a seperate file for the high scorer records which you can access separately also.
+
+6) you can edit the "Quiz.txt" file to change or increase the questions.
+
+7) you can delete the new files generated to reset the records and quiz.

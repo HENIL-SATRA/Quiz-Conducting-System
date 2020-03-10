@@ -1,0 +1,299 @@
+What is the full form of DSA?
+
+A) Data science assosiation        
+B) Data structure and algorithm
+C) Digital structure and assignment   
+D) Digital science association
+
+B) Data structure and algorithm
+Category : DSA
+
+Which of these is a linear data structure ?
+
+A) trees       
+B) stack
+C) graphs       
+D) heaps
+
+B) stack
+Category : DSA
+
+Which of these is not a linear data structure ?
+
+A) queue              
+B) list
+C)  hash table     
+D) stack
+
+C)  hash table  
+Category : DSA
+
+what is the full form of FILO?
+
+A) fast inside late out      
+B) front inside later outside
+C) first in last out        
+D) fill in leave out
+
+C) first in last out 
+Category : stack
+
+what is the full form of LIFO ?
+
+A) last in first out                 
+B) leave inside front outside
+C) late in front out        
+D) lie in frisk out
+
+A) last in first out 
+Category : stack
+
+which of these is an application of stack?
+
+A) paranthesis matching   
+B) cpu scheduling
+C) print spooling     
+D) binary sorting
+
+A)  paranthesis matching  
+Category : stack
+
+which of these has the highest priority ?
+
+A) *                
+B) ( )
+C) +	                
+D) -
+
+B) ( )
+Category : paranthesis matching 
+
+paranthesis matching is an application of ?
+
+A) queue		
+B) list
+C) stack 		
+D) heap
+
+C) stack 
+Category : paranthesis matching 
+
+which of these is not a conversion method ?
+
+A) post-fix		
+B) in-fix
+C) middle-fix	
+D) pre-fix
+
+C)  middle-fix
+Category : paranthesis matching
+
+what is the full form of malloc ?
+
+A) median allocation		
+B) master allocation
+C) mission allocation		
+D) memory allocation
+
+D) memory allocation
+Category : memory allocation
+
+what is the syntax of memory allocation ?
+
+A) ptr=(cast type*)mallocator(byte size)		
+B) ptr=(cast type*)malloc
+C) ptr=(cast type*)malloc(byte size)		
+D) ptr=malloc(byte size)
+
+C) ptr=(cast type*)malloc(byte size)
+Category : memory allocation
+
+what happens when the space is insufficient?
+
+A) alloation continues till infinity	
+B) allocation fails
+C) a recurring loop is created	
+D) neither of the above
+
+B) allocation fails
+Category : memory allocation
+
+what are not type of tree traversal?
+
+A) pre-order		
+B) post-order
+C) front-order		
+D) in-order
+
+C) front-order
+Category : trees
+
+what are characteristics of a root node?
+
+A) has no parent	
+B) height zero
+C) depth zero		
+D) none of the above
+
+C)  depth zero
+Category : trees
+
+what are characteristics of a binary tree?
+
+A) zero or more nodes		
+B) 1,2 or no child
+C)  may be empty ( no nodes )		
+D) all of the above
+
+D) all of the above
+Category : trees
+
+what are characteristics of a leaf node?
+
+A) has depth zero 		
+B) has more than one child
+C) has more then two children		
+D) has height zero
+
+D)  has height zero
+Catgory : terms
+
+what are characteristics of siblings?
+
+A) they have same child		
+B) the have same parent
+C) they are only two in number		
+D) none of the above
+
+B) the have same parent
+Catgory : terms
+
+what are characteristics of a full binary tree?
+
+A) all nodes have one child	
+B) all nodes have two children
+C) max height of tree is 3 		
+D) none of the above
+
+B)all nodes have two children
+Catgory : terms 
+
+what is the full form of bst?
+
+A) before search tree		
+B) binary search tree
+C) bracket search tree		
+D) base search tree
+
+B) binary search tree
+Category : bst
+
+what are not the functions of bst?
+
+A) duplication of a key	
+B) searching of a key
+C) insertion of a key	
+D) deletion of a key
+
+A) duplication of a key
+Category : bst
+
+which of the following is an application of bst?
+
+A) decision tree	
+B) arithmatic expression tree
+C) both a and b	
+D) none of the above
+
+C) both a and b
+Category : bst
+
+what is the max heap property?
+
+A) A[parent(i)]>=A[i]	
+B) A[parent(i)]<=A[i]
+C) A[parent(i)]=A[i]		
+D) A[parent(i)]<<A[i]
+
+A) A[parent(i)]>=A[i] 
+Category : heap
+
+what is the min heap property?
+
+A) A[parent(i)]<=A[i]	
+B) A[parent(i)]>=A[i]
+C) A[parent(i)]=A[i]	
+D) A[parent(i)]>>A[i]
+
+A) A[parent(i)]<=A[i]
+Category : heap
+
+which is not a function of heap?
+
+A) heapify	
+B) heap sort
+C) heap turn	
+D) build heap
+
+C) heap turn
+Category : heap
+
+what is the full form of dfs?
+
+A) depth first search	
+B) document first search
+C) decide first seach 		
+D) depth front search 
+
+A) depth first search
+Category : dfs
+
+DFS is implemented in?
+
+A) list 			
+B) heap
+C) sorting		
+D) graph traversel
+
+D) graph traversel
+Category : dfs
+
+what happens in dfs?
+
+A) visits last vertex first			
+B) visits neighbour vertex first	
+C) visits child vertex first	
+D) none of the above
+
+C) visits child vertex first
+Category : dfs
+
+what is the full form of bfs?
+
+A) behind full sort		
+B) breadth front search
+C) breadth first search		
+D) behind first search
+
+C) breadth first search
+Category : bfs
+
+BFS is implemented in?
+
+A) list	
+B) graph traversal
+C) heap	
+D) structure
+
+B) graph traversal
+Category : bfs
+
+what happens in bfs?
+
+A) visits child vertex first			
+B) visits neighbour vertex first	
+C) both a and b	
+D) none of the above
+
+B) visits neighbour vertex first	
+Category : bfs
